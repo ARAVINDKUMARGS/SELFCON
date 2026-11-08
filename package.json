@@ -1,0 +1,24 @@
+{
+  "name": "selfcon",
+  "version": "1.0.0",
+  "description": "SELFCON - Real Estate Redefined. Unified Short Stays, Long Rentals, and Property Buying powered by Claude AI.",
+  "scripts": {
+    "start:backend": "cd backend && node server.js",
+    "start:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "real-estate",
+    "mern",
+    "claude-ai",
+    "marketplace",
+    "airbnb",
+    "zillow",
+    "razorpay",
+    "stripe"
+  ],
+  "author": "SELFCON Engineering Team",
+  "license": "MIT"
+}
+
